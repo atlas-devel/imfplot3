@@ -7,4 +7,4 @@ Submit any bug in the Issues tab
 ```
 pip install -r requirements.txt
 ```
-# With love ❤️
+# With love ❤️🏳️‍⚧️
